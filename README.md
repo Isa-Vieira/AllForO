@@ -1,4 +1,4 @@
-##  Olá, seja bem-vindo(a) ao projeto ALL FOR ONE!
+##  Olá, seja bem-vindo(a) ao projeto AllForOne!
 
 Nele, iremos  praticará varios conceitos de SQL, usando um banco de dados totalmente diferente,usaremos o Northwind.
 
